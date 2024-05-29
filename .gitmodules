@@ -1,0 +1,3 @@
+[submodule "SWireSTM32"]
+	path = SWireSTM32
+	url = git@github.com:MKesenheimer/SWireSTM32.git
